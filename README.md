@@ -29,3 +29,5 @@ dataset
 |	YearsAtCompany	|	현직장 근무 연수	|	숫자	|
 |	YearsInCurrentRole	|	현직무 연수	|	숫자	|
 |	YearsWithCurrManager	|	현 팀장과 근무한 연수	|	숫자	|
+
+=> 컬럼 26개, 데이터 1250개
